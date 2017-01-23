@@ -1,0 +1,13 @@
+#tf-about {
+  background: url(../assets/img/07.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  color: #222222;
+}
+#tf-about .overlay {
+  height: auto;
+  background-attachment: fixed;
+  padding: 10% 0;
+}

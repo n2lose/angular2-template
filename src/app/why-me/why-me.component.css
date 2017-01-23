@@ -1,0 +1,16 @@
+#tf-why-me {
+  background: url(../assets/img/10.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  color: #222222;
+}
+#tf-why-me .overlay {
+  height: auto;
+  background-attachment: fixed;
+  padding: 5% 0;
+}
+ul.why-me li {
+  margin: 10px 0;
+}

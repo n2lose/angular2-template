@@ -1,0 +1,14 @@
+#tf-service {
+  padding: 7% 0;
+}
+.media-left.media-middle i {
+  padding: 20px 30px 20px 0;
+  font-size: 30px;
+  color: #2f937b;
+}
+.media-body h4 {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #2f937b;
+}
